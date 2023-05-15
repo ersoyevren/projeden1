@@ -1,8 +1,4 @@
 dfeefeefee
 2.satir veli degisikliklik
 
-1 git init
-2 git add .
-3 git commit -m "commit"
 
-4 git push
